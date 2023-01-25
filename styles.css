@@ -179,7 +179,7 @@ nav {
   grid-area: galleryimg15;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 320px) {
   .aboutme {
     font-family: "Times New Roman", Times, serif;
     display: grid;
